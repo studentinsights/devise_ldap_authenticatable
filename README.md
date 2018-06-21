@@ -1,4 +1,4 @@
-*This fork is no longer in use or actively maintained
+# This fork is no longer in use or actively maintained
 
 Devise LDAP Authenticatable
 ===========================
