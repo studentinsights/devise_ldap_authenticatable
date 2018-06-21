@@ -1,3 +1,5 @@
+*This fork is no longer in use or actively maintained
+
 Devise LDAP Authenticatable
 ===========================
 [![Gem Version](https://badge.fury.io/rb/devise_ldap_authenticatable.png)](http://badge.fury.io/rb/devise_ldap_authenticatable)
